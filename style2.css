@@ -1,0 +1,98 @@
+body  {
+    /* da aggiustare */
+    background-image:url(sfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background position: center;
+    margin-top: 100px;
+
+
+
+
+}
+
+.container{
+  text-align: center;
+  margin: auto;
+}
+
+
+
+.logo{
+  width: 200px;
+}
+
+.titolo{
+  font-size: 25px;
+  color: Limegreen;
+}
+
+.row{
+  background-color: #32CD32;
+  height: 45px;
+  width: 1000px;
+  display: inline-block;
+
+}
+.bottone{
+margin-top: 10px;
+}
+
+.pippo{
+  margin-left: 370px;
+  margin-top: 25px;
+  display: inline-block;
+  font-size: 25px;
+  color: white;
+}
+
+.progress_1{
+  background: #33;
+  height: 20px;
+  width: 350px;
+  padding: 3px;
+  background-color: SANDYBROWN;
+  border-radius: 4px;
+}
+
+.pluto{
+  margin-left: 370px;
+  margin-top: 30px;
+  display: block;
+  font-size: 25px;
+  color: white;
+}
+
+
+
+.progress_2{
+  background: #33;
+  height: 20px;
+  width: 600px;
+  padding: 3px;
+  background-color: LimeGreen;
+  border-radius: 4px;
+
+}
+
+.paperino{
+  margin-left: 370px;
+  margin-top: 30px;
+  display: block;
+  font-size: 25px;
+  color: white;
+}
+
+.progress_3{
+  background: #33;
+  height: 20px;
+  width: 150px;
+  padding: 3px;
+  background-color: Tomato;
+  border-radius: 4px;
+}
+
+
+.subject{
+  font-size: 15px;
+}
